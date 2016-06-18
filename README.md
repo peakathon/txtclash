@@ -1,6 +1,5 @@
 #Ballmer Peakathon TextClash
-
-
+![Alt text](./assets/txlogo.png 'TextClash logo')
 The Ballmer Peak is real:
 http://observer.com/2012/04/bottoms-up-the-ballmer-peak-is-real-study-says/
 
